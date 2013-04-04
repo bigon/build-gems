@@ -122,3 +122,35 @@ yajl-ruby::-a noarch
 librarian-puppet::-a noarch
 eventmachine:pre::-a noarch
 em-http-request:pre::-a noarch
+
+actionmailer:3.2.13:-a noarch
+actionpack:3.2.13:-a noarch
+activemodel:3.2.13:-a noarch
+activerecord:3.2.13:-a noarch
+activeresource:3.2.13:-a noarch
+activesupport:3.2.13:-a noarch
+arel:3.0.2:-a noarch
+builder:3.0.4:-a noarch
+bundler:1.3.5:-a noarch
+erubis:2.7.0:-a noarch
+hike:1.2.1:-a noarch
+i18n:0.6.1:-a noarch
+journey:1.0.4:-a noarch
+json:1.7.7
+mail:2.5.3:-a noarch
+mime-types:1.22:-a noarch
+multi_json:1.7.2:-a noarch
+polyglot:0.3.3:-a noarch
+#rack:1.4.5
+rack-cache:1.2:-a noarch
+rack-ssl:1.3.3:-a noarch
+#rack-test:0.6.2:-a noarch
+rails:3.2.13:-a noarch
+railties:3.2.13:-a noarch
+rake:10.0.4:-a noarch
+rdoc:3.12.2:-a noarch
+sprockets:2.2.2:-a noarch
+thor:0.18.1:-a noarch
+tilt:1.3.6:-a noarch
+treetop:1.4.12:-a noarch
+tzinfo:0.3.37:-a noarch
